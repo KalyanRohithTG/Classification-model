@@ -1,1 +1,1 @@
-# Classification-model
+# Death Prediction Model
